@@ -1,6 +1,6 @@
 //import mapboxgl from "mapbox-gl";
 import React, {useEffect, useState} from "react";
-import MapGL, {Marker, Popup} from "react-map-gl";
+import ReactMapGL, {Marker, Popup} from "react-map-gl";
 //import * as conusData from "./data/CONUS=V2-1.geojson";
 //import conusData from "./data/CONUS_v2-1.geojson";
 import conusData from "./data/CONUS_v2-1.json";
@@ -33,7 +33,7 @@ export default function App() {
   }, []);
   console.log(conusData)
   return (<div>
-    <MapGL {...viewport}
+    <ReactMapGL {...viewport}
     mapboxApiAccessToken="pk.eyJ1IjoiYXp0ZWNraW5kIiwiYSI6ImNrbTB2NDA2bTAxeDQzMW12bHM5Zng0ZDkifQ.M2ow_v8f3muxTlnYeWWFgA"
     mapStyle="mapbox://styles/azteckind/ckm2dl6sy0w8v17qyh3id9j8d"
     onViewportChange={setViewport}
@@ -70,7 +70,7 @@ export default function App() {
         </Popup>
       ) : null}
 
-    </MapGL>
+    </ReactMapGL>
   </div>
   );
 }
