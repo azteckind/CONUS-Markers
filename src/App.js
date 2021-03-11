@@ -71,8 +71,7 @@ export default function App() {
           </div>
         </Popup>
       )}
-
-    </ReactMapGL>
+     </ReactMapGL>
   </div>
   );
 }
