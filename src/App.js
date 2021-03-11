@@ -32,7 +32,7 @@ export default function App() {
     }
   }, []);
   
-  console.log(conusData)
+  //console.log(conusData)
   return (<div>
     <ReactMapGL {...viewport}
     mapboxApiAccessToken="pk.eyJ1IjoiYXp0ZWNraW5kIiwiYSI6ImNrbTB2NDA2bTAxeDQzMW12bHM5Zng0ZDkifQ.M2ow_v8f3muxTlnYeWWFgA"
@@ -47,7 +47,7 @@ export default function App() {
           <button className="marker-btn"
           onClick={e => {
             e.preventDefault();
-            setSelectedBase(null)
+            setSelectedBase(conus)
           }}>
             <img src="/marker-editor.svg" alt="Marker"/>
           </button>

@@ -17,14 +17,14 @@ const Map = () => {
     const map = new mapboxgl.Map({
       container: mapContainer.current,
       style: "mapbox://styles/azteckind/ckm2dl6sy0w8v17qyh3id9j8d",
-      center: [longitude, latitude],
-      zoom: zoom
+      center: [-103.46,44.58],
+      zoom: 10
     });
 
     map.on("move", () => {
-      setLatitude(map.getCenter().latitude.toFixed(4));
-      setLongitude(map.getCenter().longitude.toFixed(4));
-      setZoom(map.getZoom().toFixed(2));
+      setLatitude(map.getCenter().latitude);
+      setLongitude(map.getCenter().longitude);
+      setZoom(map.getZoom());
     });
 
     return () => map.remove();
@@ -43,6 +43,7 @@ const Map = () => {
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    {/* <Map /> */}
   </React.StrictMode>,
   document.getElementById('root')
 );
