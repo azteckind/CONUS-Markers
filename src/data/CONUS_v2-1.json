@@ -1,0 +1,881 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -99.16,34.39 ]
+     },
+     "properties": {
+       "Name":"Altus AFB",
+       "Location":"Altus",
+       "State":"OK"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -77,38.5 ]
+     },
+     "properties": {
+       "Name":"JB Anacostia-Bolling",
+       "Location":"Southweat",
+       "State":"DC"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -76.52,38.48 ]
+     },
+     "properties": {
+       "Name":"JB Andrews-Naval Air Facility Washington",
+       "Location":"Camp Springs",
+       "State":"MD"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -86.05,35.23 ]
+     },
+     "properties": {
+       "Name":"Arnold AFB",
+       "Location":"Tullahoma",
+       "State":"TN"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -93.39,32.3 ]
+     },
+     "properties": {
+       "Name":"Barksdale AFB",
+       "Location":"Bossier City",
+       "State":"LA"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -121.26,39.08 ]
+     },
+     "properties": {
+     "Name":"Beale AFB",
+     "Location":"Marysville",
+     "State":"CA"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -104.45,39.42 ]
+     },
+     "properties": {
+     "Name":"Buckley AFB",
+     "Location":"Aurora",
+     "State":"CO"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -103.19,34.22 ]
+     },
+     "properties": {
+     "Name":"Cannon AFB",
+     "Location":"Clovis",
+     "State":"NM"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -70.32,41.45 ]
+     },
+     "properties": {
+     "Name":"Cape Cod AFS",
+     "Location":"Bourne",
+     "State":"MA"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.54,48.43 ]
+     },
+     "properties": {
+     "Name":"Cavalier AFS",
+     "Location":"Mountain",
+     "State":"ND"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.02,32.53 ]
+     },
+     "properties": {
+     "Name":"JB Charleston",
+     "Location":"Charleston",
+     "State":"SC"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -104.5,38.44 ]
+     },
+     "properties": {
+     "Name":"Cheyene Mountain AFS",
+     "Location":"Colorado Springs ",
+     "State":"CO"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -88.26,33.38 ]
+     },
+     "properties": {
+     "Name":"Columbus AFB",
+     "Location":"Columbus",
+     "State":"MS"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ 115.4,36.35 ]
+     },
+     "properties": {
+     "Name":"Creech AFB",
+     "Location":"Indian Springs ",
+     "State":"NV"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -110.52,32.09 ]
+     },
+     "properties": {
+     "Name":"Davis-Monthan AFB",
+     "Location":"Tucson",
+     "State":"AZ"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -75.27,39.07 ]
+     },
+     "properties": {
+     "Name":"Dover AFB",
+     "Location":"Dover",
+     "State":"DE"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -99.51,32.25 ]
+     },
+     "properties": {
+     "Name":"Dyess AFB ",
+     "Location":"Abilene",
+     "State":"TX"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -75.24,43.12 ]
+     },
+     "properties": {
+     "Name":"EADS",
+     "Location":"Rome",
+     "State":"NY"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -117.53,34.54 ]
+     },
+     "properties": {
+     "Name":"Edwards AFB",
+     "Location":"Edwards",
+     "State":"CA"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -86.32,30.29 ]
+     },
+     "properties": {
+     "Name":"Eglin AFB",
+     "Location":"Valparaiso",
+     "State":"FL"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -103.03,44.08 ]
+     },
+     "properties": {
+     "Name":"Ellsworth AFB",
+     "Location":"Box Elder",
+     "State":"SD"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -104.52,41.07 ]
+     },
+     "properties": {
+     "Name":"Franics E. Warren AFB",
+     "Location":"Cheyenne",
+     "State":"WY"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -117.39,47.36 ]
+     },
+     "properties": {
+     "Name":"Fairchild AFB",
+     "Location":"Spokane",
+     "State":"WA"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -76.44,39.6 ]
+     },
+     "properties": {
+     "Name":"Fort George G. Meade",
+     "Location":"Odenton",
+     "State":"MD"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -112.43,32.53 ]
+     },
+     "properties": {
+     "Name":"Gila Bend AFAF",
+     "Location":"Gila Bend",
+     "State":"AZ"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -100.23,31.25 ]
+     },
+     "properties": {
+     "Name":"Goodfellow AFB",
+     "Location":"San Angelo",
+     "State":"TX"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.24,47.57 ]
+     },
+     "properties": {
+     "Name":"Grand Forks AFB",
+     "Location":"Grand Forks",
+     "State":"ND"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -71.17,42.28 ]
+     },
+     "properties": {
+     "Name":"Hanscom AFBA",
+     "Location":"Lincoln",
+     "State":"MA"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -111.58,41.07 ]
+     },
+     "properties": {
+     "Name":"Hill AFB",
+     "Location":"Ogden",
+     "State":"UT"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -115.48,37.14 ]
+     },
+     "properties": {
+     "Name":"Homey Airport",
+     "Location":"Groom Lake",
+     "State":"NV"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -106.06,32.51 ]
+     },
+     "properties": {
+     "Name":"Holloman AFB",
+     "Location":"Alamogordo",
+     "State":"NM"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -86.41,30.25 ]
+     },
+     "properties": {
+     "Name":"Hurlburt Field",
+     "Location":"Mary Esther",
+     "State":"FL"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -88.55,30.24 ]
+     },
+     "properties": {
+     "Name":"Keesler AFBA",
+     "Location":"Biloxi",
+     "State":"MS"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -98.07,36.44 ]
+     },
+     "properties": {
+     "Name":"Kegleman AFAF",
+     "Location":"Cherokee",
+     "State":"OK"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -106.36,35.02 ]
+     },
+     "properties": {
+     "Name":"Kirtland AFB",
+     "Location":"Albuquerque",
+     "State":"NM"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -76.21,37.04 ]
+     },
+     "properties": {
+     "Name":"JB Langley-Eustis",
+     "Location":"Hampton ",
+     "State":"VA"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -100.46,29.21 ]
+     },
+     "properties": {
+     "Name":"Laughlin AFB",
+     "Location":"Del Rio",
+     "State":"TX"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.28,47.08 ]
+     },
+     "properties": {
+     "Name":"JBLM",
+     "Location":"Tacoma",
+     "State":"WA"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -92.08,34.55 ]
+     },
+     "properties": {
+     "Name":"Little Rock AFBA",
+     "Location":"Jacksonville",
+     "State":"AR"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -118.22,33.55 ]
+     },
+     "properties": {
+     "Name":"Los Angeles AFB",
+     "Location":"El Segundo",
+     "State":"CA"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -112.22,33.32 ]
+     },
+     "properties": {
+     "Name":"Luke AFB",
+     "Location":"Glendale",
+     "State":"AZ"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -82.31,27.5 ]
+     },
+     "properties": {
+     "Name":"MacDill AFB",
+     "Location":"Tampa",
+     "State":"FL"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -111.11,47.3 ]
+     },
+     "properties": {
+     "Name":"Malmstrom AFB",
+     "Location":"Great Falls",
+     "State":"MT"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -86.21,32.22 ]
+     },
+     "properties": {
+     "Name":"Maxwell AFB",
+     "Location":"Montgomery",
+     "State":"AL"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.16,37.37 ]
+     },
+     "properties": {
+     "Name":"McConnell AFB",
+     "Location":"Wichita",
+     "State":"KS"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -74.31,40.01 ]
+     },
+     "properties": {
+     "Name":"JB McGuire-Dix-Lakehurst",
+     "Location":"Trenton",
+     "State":"NJ"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -101.21,48.24 ]
+     },
+     "properties": {
+     "Name":"Minot AFB",
+     "Location":"Minot",
+     "State":"ND"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -83.11,30.58 ]
+     },
+     "properties": {
+     "Name":"Moody AFB",
+     "Location":"Valdosta",
+     "State":"GA"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -115.52,43.02 ]
+     },
+     "properties": {
+     "Name":"Mountain Home AFB",
+     "Location":"Mountain Home",
+     "State":"ID"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -115.02,36.14 ]
+     },
+     "properties": {
+     "Name":"Nellis AFB",
+     "Location":"Las Vegas",
+     "State":"NV"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -71.38,42.56 ]
+     },
+     "properties": {
+     "Name":"New Boston AFS",
+     "Location":"Manchester",
+     "State":"NH"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -81.04,33.37 ]
+     },
+     "properties": {
+     "Name":"North Auxiliary Airfield",
+     "Location":"North",
+     "State":"SC"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -95.54,41.07 ]
+     },
+     "properties": {
+     "Name":"Offutt AFB",
+     "Location":"Bellevue",
+     "State":"NE"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.36,28.14 ]
+     },
+     "properties": {
+     "Name":"Patrick SFB",
+     "Location":"Brevard County",
+     "State":"FL"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -87.19,30.21 ]
+     },
+     "properties": {
+     "Name":"NAS Pensacola",
+     "Location":"Pensacola",
+     "State":"FL"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -104.41,38.49 ]
+     },
+     "properties": {
+     "Name":"Peterson AFB",
+     "Location":"Colorado Springs ",
+     "State":"CO"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -122.29,37.29 ]
+     },
+     "properties": {
+     "Name":"Pillar Point AFS",
+     "Location":"Half Moon Bay",
+     "State":"CA"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -79,35.1 ]
+     },
+     "properties": {
+     "Name":"Pope Field",
+     "Location":"Fayetteville",
+     "State":"NC"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -83.35,32.38 ]
+     },
+     "properties": {
+     "Name":"Robins AFB",
+     "Location":"Warner Robins",
+     "State":"GA"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -98.26,29.26 ]
+     },
+     "properties": {
+     "Name":"JB San Antonio",
+     "Location":"San Antonio",
+     "State":"TX"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -104.31,38.48 ]
+     },
+     "properties": {
+     "Name":"Schriever AFB",
+     "Location":"Colorado Springs ",
+     "State":"CO"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -89.5,38.32 ]
+     },
+     "properties": {
+     "Name":"Scott AFB",
+     "Location":"Belleville",
+     "State":"IL"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -77.57,35.2 ]
+     },
+     "properties": {
+     "Name":"Seymour Johnson AFB",
+     "Location":"Goldsboro",
+     "State":"NC"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -80.28,33.58 ]
+     },
+     "properties": {
+     "Name":"Shaw AFB",
+     "Location":"Sumter",
+     "State":"SC"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -98.29,33.59 ]
+     },
+     "properties": {
+     "Name":"Sheppard AFB",
+     "Location":"Wichita Falls",
+     "State":"TX"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.23,35.24 ]
+     },
+     "properties": {
+     "Name":"Tinker AFB",
+     "Location":"Oklahoma City",
+     "State":"OK"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -116.46,37.47 ]
+     },
+     "properties": {
+     "Name":"Tonopah Test Range Airport",
+     "Location":"Tonopah",
+     "State":"NV"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -121.55,38.15 ]
+     },
+     "properties": {
+     "Name":"Travis AFB",
+     "Location":"Fairfield",
+     "State":"CA"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -85.34,30.4 ]
+     },
+     "properties": {
+     "Name":"Tyndall AFB",
+     "Location":"Panama City",
+     "State":"FL"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -97.55,36.2 ]
+     },
+     "properties": {
+     "Name":"Vance AFB",
+     "Location":"Enid",
+     "State":"OK"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -120.34,34.43 ]
+     },
+     "properties": {
+     "Name":"Vandenberg AFB",
+     "Location":"Lompoc",
+     "State":"CA"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -93.32,38.43 ]
+     },
+     "properties": {
+     "Name":"Whiteman AFB",
+     "Location":"Knob Noster",
+     "State":"MO"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -84.02,39.49 ]
+     },
+     "properties": {
+     "Name":"Wright Patterson AFB",
+     "Location":"Dayton",
+     "State":"OH"
+     }
+   }
+ ]
+ }
