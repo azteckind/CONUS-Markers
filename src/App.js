@@ -1,8 +1,8 @@
 //import mapboxgl from "mapbox-gl";
 import React, {useEffect, useState} from "react";
 import ReactMapGL, {Marker, Popup} from "react-map-gl";
-//import * as conusData from "./data/CONUS=V2-1.geojson";
-//import conusData from "./data/CONUS_v2-1.geojson";
+//import * as conusData from "./data/CONUS=V2-1.geojson"; -> did not like * as
+//import conusData from "./data/CONUS_v2-1.geojson"; -> did not like geojson file extension
 import conusData from "./data/CONUS_v2-1.json";
 
 export default function App() {
@@ -31,7 +31,8 @@ export default function App() {
       window.addEventListener("keydown", listener);
     }
   }, []);
-  console.log(conusData)
+  
+  //console.log(conusData)
   return (<div>
     <ReactMapGL {...viewport}
     mapboxApiAccessToken="pk.eyJ1IjoiYXp0ZWNraW5kIiwiYSI6ImNrbTB2NDA2bTAxeDQzMW12bHM5Zng0ZDkifQ.M2ow_v8f3muxTlnYeWWFgA"
@@ -53,7 +54,7 @@ export default function App() {
         </Marker>
       ))}
 
-      {selectedBase ? (
+      {selectedBase && (
         <Popup latitude={selectedBase.geometry.coordinates[1]}
         longitude={selectedBase.geometry.coordinates[0]}
         onClose={() => {
@@ -68,7 +69,7 @@ export default function App() {
             </p>
           </div>
         </Popup>
-      ) : null}
+      )}
 
     </ReactMapGL>
   </div>
