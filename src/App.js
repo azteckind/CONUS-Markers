@@ -47,6 +47,7 @@ export default function App() {
           <button className="marker-btn"
           onClick={e => {
             e.preventDefault();
+            //setSelectedBase(null) 
             setSelectedBase(conus)
           }}>
             <img src="/marker-editor.svg" alt="Marker"/>
