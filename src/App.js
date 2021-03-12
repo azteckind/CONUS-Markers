@@ -3,6 +3,7 @@ import ReactMapGL, {Marker, Popup} from "react-map-gl";
 //import * as conusData from "./data/CONUS=V2-1.geojson"; -> did not like * as
 //import conusData from "./data/CONUS_v2-1.geojson"; -> did not like geojson file extension
 import conusData from "./data/CONUS_v2-1.json";
+import LatLongZoom from "./LatLongZoom";
 
 export default function App() {
   //Centering the viewport to the middle of the USA
@@ -30,7 +31,10 @@ export default function App() {
       window.addEventListener("keydown", listener);
     }
   }, []);
-  
+
+  //Displaying the Lat-Long-Zoom
+  const latLongZoom = <LatLongZoom />;
+
   //console.log(conusData)
   return (<div>
     <ReactMapGL {...viewport}
@@ -71,7 +75,9 @@ export default function App() {
           </div>
         </Popup>
       )}
+ 
      </ReactMapGL>
+     {latLongZoom} 
   </div>
   );
 }
