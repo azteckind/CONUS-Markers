@@ -1,4 +1,3 @@
-//import mapboxgl from "mapbox-gl";
 import React, {useEffect, useState} from "react";
 import ReactMapGL, {Marker, Popup} from "react-map-gl";
 //import * as conusData from "./data/CONUS=V2-1.geojson"; -> did not like * as
