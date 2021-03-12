@@ -3,6 +3,7 @@ import ReactMapGL, {Marker, Popup} from "react-map-gl";
 //import * as conusData from "./data/CONUS=V2-1.geojson"; -> did not like * as
 //import conusData from "./data/CONUS_v2-1.geojson"; -> did not like geojson file extension
 import conusData from "./data/CONUS_v2-1.json";
+//Imported lat-long-zoom display
 import LatLongZoom from "./LatLongZoom";
 
 export default function App() {
@@ -42,6 +43,7 @@ export default function App() {
     mapStyle="mapbox://styles/azteckind/ckm2dl6sy0w8v17qyh3id9j8d"
     onViewportChange={setViewport}
     >
+      {latLongZoom}
 
       {conusData.features.map(conus => (
         <Marker key={conus.properties.Name}
@@ -72,12 +74,17 @@ export default function App() {
             <p>
               {selectedBase.properties.Location}
             </p>
+            <p>
+              {selectedBase.geometry.coordinates[0]}
+            </p>
+            <p>
+              {selectedBase.geometry.coordinates[1]}
+            </p>
           </div>
         </Popup>
       )}
- 
-     </ReactMapGL>
-     {latLongZoom} 
+      </ReactMapGL>
+      
   </div>
   );
 }
