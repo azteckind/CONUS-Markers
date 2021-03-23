@@ -161,7 +161,7 @@
      "type": "Feature",
      "geometry": {
         "type": "Point",
-        "coordinates":  [ 115.4,36.35 ]
+        "coordinates":  [ -115.4,36.35 ]
      },
      "properties": {
      "Name":"Creech AFB",
